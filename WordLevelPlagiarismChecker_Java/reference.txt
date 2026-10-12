@@ -1,0 +1,10 @@
+Artificial intelligence is playing an increasingly important role in modern education. 
+It helps students understand complex topics, provides personalized learning assistance, 
+and allows them to complete certain educational activities more efficiently. AI systems 
+can also support teachers by analyzing student performance and finding areas where students 
+need additional help.
+
+Despite these advantages, artificial intelligence introduces several challenges in education.
+ Students can become too dependent on automated systems, while inaccurate AI-generated 
+ information may negatively influence learning outcomes. For this reason, AI should be 
+ used responsibly as a learning aid and should not completely replace human teachers.

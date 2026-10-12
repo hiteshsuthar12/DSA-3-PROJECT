@@ -1,0 +1,16 @@
+WORD-LEVEL PLAGIARISM REPORT
+====================================
+Input Document   : input-1.txt
+Reference Document: reference-1.txt
+
+Processed Input Words : 236
+Matching Words        : 135
+Similarity Score      : 57.20%
+Result                : MODERATE SIMILARITY
+
+Common Word Sequences:
+- education project similarity
+- project similarity test
+- similarity test document
+- test document introduction
+- conclusion artificial intelligence
